@@ -1,0 +1,20 @@
+# Requirement Analysis
+
+## Functional Requirements
+
+### User adds a new task
+- User can add a new task and input the task name, description due date, and priority
+
+### User edits a task
+- User can edit a task and change the task name, description, due date, and priority
+
+### User deletes a task
+- User can delete a task
+
+### User marks a task as complete or edit it as incomplete
+- User can mark task as complete or edit the task completion status to incomplete
+
+### User views all tasks
+- User can view all tasks
+
+
